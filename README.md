@@ -1,6 +1,6 @@
 # FaceCaptureUnrealEngine
 
-Leverage AndroidArcoreFacesStreaming to build elementary blend weights sent to Unreal Engine Livelink, to articulate MetaHumans or other humanoids.
+Leverage AndroidArcoreFacesStreaming to build elementary blend shape weights sent to Unreal Engine Livelink, to articulate MetaHumans or other humanoids.
 
 ![alt text](https://i.imgur.com/T9EV1fr.png)
 
