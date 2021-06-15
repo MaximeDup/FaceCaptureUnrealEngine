@@ -4,4 +4,4 @@ Leverage AndroidArcoreFacesStreaming to build elementary blend shape weights sen
 
 ![alt text](https://i.imgur.com/T9EV1fr.png)
 
-![alt text](https://i.imgur.com/uC77IqQm.jpg)
+![alt text](https://i.imgur.com/uC77IqQl.jpg)
