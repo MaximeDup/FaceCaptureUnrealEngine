@@ -52,7 +52,7 @@ public:
 	UPROPERTY(BlueprintReadWrite, EditAnywhere, Category = "Default")
 		FRotator HeadRotation;
 	UPROPERTY(BlueprintReadWrite, EditAnywhere, Category = "Default")
-		FRotator WS_PawnRotation;
+		FRotator WS_PawnRotation=FRotator(0.f,90.f,0.f);
 
 	UPROPERTY(BlueprintReadWrite, EditAnywhere, Category = "Default")
 		UAndroidBlenshape* ReferenceBladeShape;
